@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quiz</string>
+
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne pytanie</string>
+
+    <string name="q_1">Czy słońce świeci?</string>
+    <string name="q_2">Czy niebo jest czerwone?</string>
+    <string name="q_3">Czy piwo to alkochol?</string>
+    <string name="q_4">Czy Pb to poważna uczelnia?</string>
+    <string name="q_5">Czy android jest lepszy od ios?</string>
+
+    <string name="correct_answer">Prawidłowa odpowiedź!</string>
+    <string name="incorrect_answer">Nieprawidłowa odpowiedź!</string>
+
+    <string name="odpowiedz_byla_pokazana">"Niestety, odpowiedź została podejrzana!"</string>
+</resources>
