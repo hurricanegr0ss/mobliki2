@@ -1,0 +1,37 @@
+KOMUNIKATY PO WŁĄCZENIU APLIKACJI
+2022-10-20 18:08:19.987 19487-19487 MainActivity            pl.edu.pb.wi                         D  onStart - Aplikacja uruchomiona
+2022-10-20 18:08:19.990 19487-19487 MainActivity            pl.edu.pb.wi                         D  onResume - Aplikacja wznowiona
+
+PO WCIŚCIĘCIU PRZYCISKU COFNIJ
+2022-10-20 18:10:02.232 19887-19887 MainActivity            pl.edu.pb.wi                         D  onPause - Aplikacja zapauzowana
+2022-10-20 18:10:02.556 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStop - Aplikacja zatrzymana
+2022-10-20 18:10:02.560 19887-19887 MainActivity            pl.edu.pb.wi                         D  onDestroy - Aplikacja zniszczona
+
+PO PONOWNYM WŁĄCZENIU
+2022-10-20 18:10:38.737 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStart - Aplikacja uruchomiona
+2022-10-20 18:10:38.738 19887-19887 MainActivity            pl.edu.pb.wi                         D  onResume - Aplikacja wznowiona
+
+PO WCIŚNIĘBIU PRZYCISKU HOME
+2022-10-20 18:11:11.199 19887-19887 MainActivity            pl.edu.pb.wi                         D  onPause - Aplikacja zapauzowana
+2022-10-20 18:11:11.248 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStop - Aplikacja zatrzymana
+
+PO POWROCIE DO APLIKACJI
+2022-10-20 18:12:03.961 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStart - Aplikacja uruchomiona
+2022-10-20 18:12:03.963 19887-19887 MainActivity            pl.edu.pb.wi                         D  onResume - Aplikacja wznowiona
+
+PO OBROCIE EKRANU
+2022-10-20 18:12:24.149 19887-19887 MainActivity            pl.edu.pb.wi                         D  onPause - Aplikacja zapauzowana
+2022-10-20 18:12:24.150 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStop - Aplikacja zatrzymana
+2022-10-20 18:12:24.152 19887-19887 MainActivity            pl.edu.pb.wi                         D  onDestroy - Aplikacja zniszczona
+2022-10-20 18:12:24.235 19887-19887 MainActivity            pl.edu.pb.wi                         D  onStart - Aplikacja uruchomiona
+2022-10-20 18:12:24.237 19887-19887 MainActivity            pl.edu.pb.wi                         D  onResume - Aplikacja wznowiona
+
+
+PO DODANIU OPCJI ZAPISU I OBROCIE EKRANU
+2022-10-20 18:25:07.910 25021-25021 MainActivity            pl.edu.pb.wi                         D  onPause - Aplikacja zapauzowana
+2022-10-20 18:25:07.911 25021-25021 MainActivity            pl.edu.pb.wi                         D  onStop - Aplikacja zatrzymana
+2022-10-20 18:25:07.912 25021-25021 MainActivity            pl.edu.pb.wi                         D  onSaveInstanceState - Zapisano stan
+2022-10-20 18:25:07.912 25021-25021 MainActivity            pl.edu.pb.wi                         D  onDestroy - Aplikacja zniszczona
+2022-10-20 18:25:07.963 25021-25021 MainActivity            pl.edu.pb.wi                         D  onStart - Aplikacja uruchomiona
+2022-10-20 18:25:07.965 25021-25021 MainActivity            pl.edu.pb.wi                         D  onResume - Aplikacja wznowiona
+
